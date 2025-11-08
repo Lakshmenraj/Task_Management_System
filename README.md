@@ -33,22 +33,3 @@ Pagination Logic
 
 Responsive CSS Layout
 
-
-Project Structure
-src/
-│
-├── components/
-│   ├── TaskForm.js
-│   ├── TaskItem.js
-│   └── TaskList.js
-│
-├── hooks/
-│   └── useTasks.js
-│
-├── pages/
-│   ├── HomePage.js
-│   └── AllTasksPage.js
-│
-├── App.js
-├── App.css
-└── index.js
